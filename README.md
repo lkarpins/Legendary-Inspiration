@@ -26,7 +26,7 @@ save your favorites.  Create your own inspirational poster. Allow these beautifu
 For this project, we used HTML, CSS and JavaScript.  Our primary focus was on JavaScript as the HTML and CSS were provided by 
 Turing School of Software and Design.
 
-Project spec & rubric can be found [here](https://frontend.turing.io/projects/module-1/hang-in-there.html).  Images of the project may 
+Project spec & rubric can be found [here](https://frontend.turing.io/projects/module-1/hang-in-there-v2.html).  Images of the project may 
 be found in the readme-imgs directory of the repo.  To view the deployed site, please visit [https://lkarpins.github.io/Legendary-Inspiration/](https://lkarpins.github.io/Legendary-Inspiration/).
 
 ## Ideas for Future Features/Fixes
