@@ -11,8 +11,8 @@ By: [Lidia Karpinski](https://github.com/lkarpins) & [Rachel Bock](https://githu
 
 ## Introduction
 
-Welcome to Legendary Inspiration! A gallery of inspirational images and quotes to fill your cup.  Interact and save your favorites.  
-Create your own inspirational poster. Allow these beautiful words to brighten your day!
+Welcome to Legendary Inspiration! A gallery of inspirational images and quotes to fill your cup.  Interact and 
+save your favorites.  Create your own inspirational poster. Allow these beautiful words to brighten your day!
 
 ## Set Up
 
