@@ -1,6 +1,6 @@
 # Legendary Inspiration
 
-By: [Lidia Karpinski](https://github.com/lkarpins) & [Rachel Bock](https://github.com/rachel-bock) 
+By: [Rachel Bock](https://github.com/rachel-bock) & [Lidia Karpinski](https://github.com/lkarpins) 
 
 ## Table of Contents
 * Introduction
